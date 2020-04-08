@@ -3,11 +3,13 @@ This is an ontology that has been developed through the conduction of a systemat
 
 Please cite the following paper when using this ontology:
 
-@misc{hannousse2020securing,
-    title={Securing Microservices and Microservice Architectures: A Systematic Mapping Study},
-    author={Abdelhakim Hannousse and Salima Yahiouche},
-    year={2020},
-    eprint={2003.07262},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR}
-}
+    @misc{hannousse2020securing,
+        author       = {Abdelhakim Hannousse and Salima Yahiouche},
+        title        = {Securing Microservices and Microservice Architectures: A Systematic Mapping Study},
+        month        = mar,
+        year         = 2020,
+        eprint       = {{2003.07262}},
+        version      = {1.0},
+        publisher    = {arXiv},
+        url          = {https://arxiv.org/abs/2003.07262}
+        }
