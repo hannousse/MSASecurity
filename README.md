@@ -8,7 +8,7 @@ Please cite the following paper when using this ontology:
         title        = {Securing Microservices and Microservice Architectures: A Systematic Mapping Study},
         month        = mar,
         year         = 2020,
-        eprint       = {{2003.07262}},
+        eprint       = {2003.07262},
         version      = {1.0},
         publisher    = {arXiv},
         url          = {https://arxiv.org/abs/2003.07262}
